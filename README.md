@@ -19,6 +19,6 @@ Celem projektu jest stworzenie prostej strony internetowej. Projekt jest realizo
 Nie musisz instalować dodatkowego oprogramowanie. Wystarczy przeglądarka! Strona jest dostepna online dzięki GitHub Pages.
 
 ## Zespół
--UI/UX designer Piotr S.
--Frontend developer Maja S.
--Backend developer Ewelina S.
+- UI/UX designer Piotr S.
+- Frontend developer Maja S.
+- Backend developer Ewelina S.
